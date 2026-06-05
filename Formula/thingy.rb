@@ -1,8 +1,8 @@
 class Thingy < Formula
   desc "Sakura-themed TUI editor with code execution"
   homepage "https://github.com/Velox0/thingy"
-  url "https://github.com/velox0/thingy/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "7c27bfa92cec0152b8c8cc7fbf3cd2e481084dedd7e8fe5c8ae1a78bc1f279a1"
+  url "https://github.com/velox0/thingy/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "db775f9564b752d1c56ad747cf00dc8d8230b143e610e8a1701c11673ec88fbb"
   license "Unlicense"
 
   depends_on "ncurses"
